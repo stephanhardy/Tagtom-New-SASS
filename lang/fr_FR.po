@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tagtom-WP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Nov 11 2014 10:45:43 GMT+0100 (CET)\n"
+"PO-Revision-Date: Fri Nov 14 2014 10:29:02 GMT+0100 (CET)\n"
+"Last-Translator: Bob <info@tagtom.com>\n"
+"Language-Team: \n"
+"Language: French\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ./templates\n"
+"X-Poedit-SearchPath-2: ./lib\n"
+"X-Loco-Target-Locale: fr_FR\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../404.php:4
+msgid "Sorry, but the page you were trying to view does not exist."
+msgstr ""
+
+#: ../404.php:7
+msgid "It looks like this was the result of either:"
+msgstr ""
+
+#: ../404.php:9
+msgid "a mistyped address"
+msgstr ""
+
+#: ../404.php:10
+msgid "an out-of-date link"
+msgstr ""
+
+#: ../base.php:6
+msgid ""
+"You are using an <strong>outdated</strong> browser. Please <a href=\"http:"
+"//browsehappy.com/\">upgrade your browser</a> to improve your experience."
+msgstr ""
+
+#: ../index.php:5
+msgid "Sorry, no results were found."
+msgstr "Désolé, aucun résultat n'a été trouvé."
+
+#: ../index.php:22
+msgid "&larr; Older posts"
+msgstr "&larr; Articles plus anciens"
+
+#: ../index.php:23
+msgid "Newer posts &rarr;"
+msgstr "Articles plus récents &rarr;"
+
+#: ../lib/activation.php:28 ../lib/activation.php:29
+msgid "Theme Activation"
+msgstr "Activation du thème"
+
+#: ../lib/activation.php:50
+#, php-format
+msgid "%s Theme Activation"
+msgstr "Activation du thème %s"
+
+#: ../lib/activation.php:52
+msgid ""
+"These settings are optional and should usually be used only on a fresh "
+"installation"
+msgstr ""
+
+#: ../lib/activation.php:59 ../lib/activation.php:62
+msgid "Create static front page?"
+msgstr "Créer une page d'accueil ?"
+
+#: ../lib/activation.php:64 ../lib/activation.php:76 ../lib/activation.php:88 ..
+#: lib/activation.php:100
+msgid "Yes"
+msgstr "Oui"
+
+#: ../lib/activation.php:65 ../lib/activation.php:77 ../lib/activation.php:89 ..
+#: lib/activation.php:101
+msgid "No"
+msgstr "Non"
+
+#: ../lib/activation.php:67
+msgid "Create a page called Home and set it to be the static front page"
+msgstr "Créer une page \"Home\" et la définir comme page d'accueil statique ?"
+
+#: ../lib/activation.php:71
+msgid "Change permalink structure?"
+msgstr "Modifier la structure des permaliens ?"
+
+#: ../lib/activation.php:74
+msgid "Update permalink structure?"
+msgstr "Mettre à jour la structure des permaliens ?"
+
+#: ../lib/activation.php:79
+msgid "Change permalink structure to /&#37;postname&#37;/"
+msgstr "Changer la structure permaliens en /&#37;postname&#37;/"
+
+#: ../lib/activation.php:83 ../lib/activation.php:86
+msgid "Create navigation menu?"
+msgstr "Créer un menu de navigation ?"
+
+#: ../lib/activation.php:91
+msgid "Create the Primary Navigation menu and set the location"
+msgstr "Créer le menus de navigation primaire et définir sa position"
+
+#: ../lib/activation.php:95 ../lib/activation.php:98
+msgid "Add pages to menu?"
+msgstr "Ajouter les pages au menu ?"
+
+#: ../lib/activation.php:103
+msgid "Add all current published pages to the Primary Navigation"
+msgstr "Ajouter toutes les pages actuellement publiées à la navigation primaire"
+
+#: ../lib/activation.php:126 ../lib/activation.php:147
+msgid "Home"
+msgstr ""
+
+#: ../lib/activation.php:173 ../lib/activation.php:176 ../lib/activation.php:190 .
+#: ./lib/init.php:11
+msgid "Primary Navigation"
+msgstr "Navigation Primaire"
+
+#: ../lib/cleanup.php:193
+msgid "Continued"
+msgstr "Suite"
+
+#: ../lib/titles.php:10
+msgid "Latest Posts"
+msgstr "Derniers Articles"
+
+#: ../lib/titles.php:19
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archives quotidiennes : %s"
+
+#: ../lib/titles.php:21
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archives mensuelles : %s"
+
+#: ../lib/titles.php:23
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archives annuelles : %s"
+
+#: ../lib/titles.php:26
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Archives d'auteurs : %s"
+
+#: ../lib/titles.php:31
+#, php-format
+msgid "Search Results for %s"
+msgstr "Resultats de la recherche pour %s"
+
+#: ../lib/titles.php:33
+msgid "Not Found"
+msgstr ""
+
+#: ../lib/widgets.php:8
+msgid "Primary"
+msgstr ""
+
+#: ../lib/widgets.php:17
+msgid "Footer"
+msgstr "Pied de page"
+
+#: ../lib/widgets.php:70
+msgid "Use this widget to add a vCard"
+msgstr "Utiliser ce widget pour ajouter une vCard"
+
+#: ../lib/widgets.php:72
+msgid "Roots: vCard"
+msgstr "Roots: vCard"
+
+#: ../lib/widgets.php:99
+msgid "vCard"
+msgstr "vCard"
+
+#: ../templates/comment.php:4
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: ../templates/comment.php:5
+msgid "(Edit)"
+msgstr "(Editer)"
+
+#: ../templates/comment.php:9
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: ../templates/comments.php:8
+#, php-format
+msgid "One Response to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Responses to &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réponse à &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s résponses à &ldquo;%2$s&rdquo;"
+
+#: ../templates/comments.php:18
+msgid "&larr; Older comments"
+msgstr "&larr; Commentaires plus anciens"
+
+#: ../templates/comments.php:21
+msgid "Newer comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: ../templates/comments.php:29 ../templates/comments.php:38
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: ../templates/comments.php:45
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: ../templates/comments.php:45
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../templates/comments.php:48
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Vous devez être <a href=\"%s\">connecté</a> pour ajouter un commentaire."
+
+#: ../templates/comments.php:53
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr "Connecté en tant que <a href=\"%s/wp-admin/profile.php\">%s</a>."
+
+#: ../templates/comments.php:54
+msgid "Log out of this account"
+msgstr "Déconnexion de ce compte"
+
+#: ../templates/comments.php:54
+msgid "Log out &raquo;"
+msgstr "Déconnexion &raquo;"
+
+#: ../templates/comments.php:58 ../templates/comments.php:59
+msgid "Name"
+msgstr "Nom"
+
+#: ../templates/comments.php:58 ../templates/comments.php:59 ..
+#: templates/comments.php:62 ../templates/comments.php:63
+msgid " (required)"
+msgstr " (obligatoire)"
+
+#: ../templates/comments.php:62 ../templates/comments.php:63
+msgid "Email (will not be published)"
+msgstr "Email (ne sera pas publié)"
+
+#: ../templates/comments.php:66
+msgid "Website"
+msgstr "Site web"
+
+#: ../templates/comments.php:71 ../templates/comments.php:72
+msgid "Comment"
+msgstr "Commentaire"
+
+#: ../templates/comments.php:74
+msgid "Submit Comment"
+msgstr "Ajouter un commentaire"
+
+#: ../templates/content-single.php:13
+msgid "Pages:"
+msgstr "Pages :"
+
+#: ../templates/footer.php:29 ../templates/searchform.php:22
+msgid "Search for:"
+msgstr "Rechercher pour :"
+
+#: ../templates/footer.php:32 ../templates/footer.php:34 ../templates/searchform.
+#: php:25 ../templates/searchform.php:27
+msgid "Search"
+msgstr "Recherche"
